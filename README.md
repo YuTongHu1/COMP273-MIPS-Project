@@ -12,4 +12,5 @@ Final Submission: Revised version submitted for grading and README file
 
 ## Acknowledgments
 Despite the challenges of working solo, this project has been a valuable learning experience in understanding MIPS programming and computer architecture.
-Graded project: 80%
+
+### Graded project: 80%
